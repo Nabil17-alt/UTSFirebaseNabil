@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959773211242",
+    "project_id": "utsfirebasenabil-7b9c2",
+    "storage_bucket": "utsfirebasenabil-7b9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959773211242:android:7aed1f6a7db9bcf600e813",
+        "android_client_info": {
+          "package_name": "com.nabil.utsfirebasenabil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdZwm6kKYXnae3z6ZJgHOG_yw58MGUy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTSFirebaseNabil</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_nim">Masukkan Nim</string>
+    <string name="masukkan_prodi">Masukkan Prodi</string>
+</resources>
